@@ -1,0 +1,5 @@
+outputDisplay.c:10:6:blinkRed	8	static
+outputDisplay.c:13:6:blinkYellow	8	static
+outputDisplay.c:16:6:blinkGreen	8	static
+outputDisplay.c:19:6:blinkBlue	8	static
+outputDisplay.c:22:6:blinkPurple	8	static
